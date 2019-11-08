@@ -230,4 +230,5 @@ let data = Mock.mock({
     permissionId: 6
   }]
 });
+
 module.exports = data;
