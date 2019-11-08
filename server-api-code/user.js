@@ -7,7 +7,7 @@ module.exports =  [{
   del: false,
   active: true, //  激活
   avatar: 'http://localhost:8888/server/img/a1.png',
-  name: Random.cname(),
+  name: Random.name(),
   school: 'Harvard University',
   mail: Random.email(),
   phone: Random.integer(18911111111, 18999999999),
@@ -19,7 +19,7 @@ module.exports =  [{
   del: false,
   active: true, //  激活
   avatar: 'http://localhost:8888/server/img/a1.png',
-  name: Random.cname(),
+  name: Random.name(),
   school: 'Harvard University',
   mail: Random.email(),
   phone: Random.integer(18911111111, 18999999999),
@@ -31,7 +31,7 @@ module.exports =  [{
   del: false,
   active: true, //  激活
   avatar: 'http://localhost:8888/server/img/a1.png',
-  name: Random.cname(),
+  name: Random.name(),
   school: 'Harvard University',
   mail: Random.email(),
   phone: Random.integer(18911111111, 18999999999),
@@ -43,7 +43,7 @@ module.exports =  [{
   del: false,
   active: true, //  激活
   avatar: 'http://localhost:8888/server/img/a1.png',
-  name: Random.cname(),
+  name: Random.name(),
   school: 'Harvard University',
   mail: Random.email(),
   phone: Random.integer(18911111111, 18999999999),
@@ -55,7 +55,7 @@ module.exports =  [{
   del: false,
   active: true, //  激活
   avatar: 'http://localhost:8888/server/img/a1.png',
-  name: Random.cname(),
+  name: Random.name(),
   school: 'Harvard University',
   mail: Random.email(),
   phone: Random.integer(18911111111, 18999999999),
@@ -67,7 +67,7 @@ module.exports =  [{
   del: false,
   active: true, //  激活
   avatar: 'http://localhost:8888/server/img/a1.png',
-  name: Random.cname(),
+  name: Random.name(),
   school: 'Harvard University',
   mail: Random.email(),
   phone: Random.integer(18911111111, 18999999999),
@@ -79,7 +79,7 @@ module.exports =  [{
   del: false,
   active: true, //  激活
   avatar: 'http://localhost:8888/server/img/a1.png',
-  name: Random.cname(),
+  name: Random.name(),
   school: 'Harvard University',
   mail: Random.email(),
   phone: Random.integer(18911111111, 18999999999),
@@ -91,7 +91,7 @@ module.exports =  [{
   del: false,
   active: true, //  激活
   avatar: 'http://localhost:8888/server/img/a1.png',
-  name: Random.cname(),
+  name: Random.name(),
   school: 'Harvard University',
   mail: Random.email(),
   phone: Random.integer(18911111111, 18999999999),
@@ -103,7 +103,7 @@ module.exports =  [{
   del: false,
   active: true, //  激活
   avatar: 'http://localhost:8888/server/img/a1.png',
-  name: Random.cname(),
+  name: Random.name(),
   school: 'Harvard University',
   mail: Random.email(),
   phone: Random.integer(18911111111, 18999999999),
@@ -115,7 +115,7 @@ module.exports =  [{
   del: false,
   active: true, //  激活
   avatar: 'http://localhost:8888/server/img/a1.png',
-  name: Random.cname(),
+  name: Random.name(),
   school: 'Harvard University',
   mail: Random.email(),
   phone: Random.integer(18911111111, 18999999999),
@@ -127,7 +127,7 @@ module.exports =  [{
   del: false,
   active: true, //  激活
   avatar: 'http://localhost:8888/server/img/a1.png',
-  name: Random.cname(),
+  name: Random.name(),
   school: 'Harvard University',
   mail: Random.email(),
   phone: Random.integer(18911111111, 18999999999),
@@ -139,7 +139,7 @@ module.exports =  [{
   del: false,
   active: true, //  激活
   avatar: 'http://localhost:8888/server/img/a1.png',
-  name: Random.cname(),
+  name: Random.name(),
   school: 'Harvard University',
   mail: Random.email(),
   phone: Random.integer(18911111111, 18999999999),
@@ -151,7 +151,7 @@ module.exports =  [{
   del: false,
   active: true, //  激活
   avatar: 'http://localhost:8888/server/img/a1.png',
-  name: Random.cname(),
+  name: Random.name(),
   school: 'Harvard University',
   mail: Random.email(),
   phone: Random.integer(18911111111, 18999999999),
@@ -163,7 +163,7 @@ module.exports =  [{
   del: false,
   active: true, //  激活
   avatar: 'http://localhost:8888/server/img/a1.png',
-  name: Random.cname(),
+  name: Random.name(),
   school: 'Harvard University',
   mail: Random.email(),
   phone: Random.integer(18911111111, 18999999999),
