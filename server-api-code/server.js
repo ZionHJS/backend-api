@@ -55,7 +55,7 @@ server.post('/api/userlogin', (req, res) => {   //all get post put delete等都�
   }
 });
 
-// 验证码
+//验证码
 server.get('/api/code', (req,res)=>{
   const cap = captcha.create({
     color: true,
@@ -68,7 +68,7 @@ server.get('/api/code', (req,res)=>{
   res.send(cap.data);
 });
 
-// 文件上传
+//文件上传
 server.all('/per/upload', upload.single('imgF'), function(req, res, next) {
   // req.file is the `avatar` file
   // req.body will hold the text fields, if there were any
